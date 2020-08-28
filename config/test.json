@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "1234",
+  "db": "mongodb+srv://hellotv:hellotv@cluster0-sldxv.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
